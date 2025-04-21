@@ -64,3 +64,7 @@ Allow users to filter data by product information like category and subcategory 
 ### Sales Dashboard
 
 ![Tableau](images/sales_dashboard.png)
+
+### Customer Dashboard
+
+![Tableau](images/customer_dashboard.png)
