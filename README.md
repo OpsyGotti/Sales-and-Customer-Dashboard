@@ -59,7 +59,6 @@ Allow users to filter data by product information like category and subcategory 
 
 
 
+# Visualisation Result
 
-### Sales-and-Customer-Dashboard
-Sales and Customer Dashboard using Tableau
-
+![Tableau](images/sales_dashboard.png)
