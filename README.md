@@ -1,9 +1,9 @@
-# Tableau User Story - Sales Performance 
+# Tableau User Story | Sales Performance 
 
 # Introduction
 This user story defines the requirements for developing two Tableau dashboards, enabling stakeholders such as sales managers and executives to evaluate sales performance and customer insights.
 
-# Sales Dashboard - Requirements
+# Sales Dashboard | Requirements
 ## Dashboard Purpose
 The purpose of sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
 
@@ -25,7 +25,7 @@ Display a summary of total sales, profits and quantity for the current year and 
 - Display the average weekly values
 - Highlight weeks that are above and below the average to draw attention to sale & profit performance.
 
-# Customer Dashboard - Requirements
+# Customer Dashboard | Requirements
 
 ## Dashboard Purpose
 The customer dashboard aims to provide an overview of customer data, trends and behaviours. It will help marketing teams and management to understand customer segments and improve customer satisfaction.
