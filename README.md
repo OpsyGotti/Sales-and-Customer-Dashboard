@@ -61,4 +61,6 @@ Allow users to filter data by product information like category and subcategory 
 
 # Visualisation Result
 
+### Sales Dashboard
+
 ![Tableau](images/sales_dashboard.png)
